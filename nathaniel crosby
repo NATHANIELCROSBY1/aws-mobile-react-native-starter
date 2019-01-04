@@ -1,0 +1,3 @@
+$ cd my-project
+$ npm install
+$ npm run ios #npm run android
